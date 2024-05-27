@@ -1,7 +1,7 @@
 # Blog-App-MERN
 
 
-[![Video](https://user-images.githubusercontent.com/(https://drive.google.com/file/d/1xUbiTw6Pq_4LYECfA8HGCSh_eer6Ahz9/edit)/video.mp4)]
+-- *Demo Video* : https://drive.google.com/file/d/1xUbiTw6Pq_4LYECfA8HGCSh_eer6Ahz9/view?usp=sharing
 
 
 
