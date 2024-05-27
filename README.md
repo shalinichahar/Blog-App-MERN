@@ -1,4 +1,4 @@
-# Blog-App-MERN
+# Blog Application
 
 # Usage
 - Register: Create a new account with a profile image.
