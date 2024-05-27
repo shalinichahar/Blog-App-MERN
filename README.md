@@ -1,5 +1,12 @@
 # Blog-App-MERN
 
+# Usage
+- Register: Create a new account with a profile image.
+- Login: Access your account.
+- Dashboard: Manage your blog posts.
+- Blog List: View all your blog posts, with options to edit or delete.
+- Comments: Interact with other users by commenting on blog posts.
+
 
 *Demo Video* : https://drive.google.com/file/d/1xUbiTw6Pq_4LYECfA8HGCSh_eer6Ahz9/view?usp=sharing
 
